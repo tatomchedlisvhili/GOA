@@ -1,0 +1,1 @@
+input("chaweret tkveni saxeli: ")
