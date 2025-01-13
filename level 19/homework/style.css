@@ -1,0 +1,22 @@
+body{ 
+    background-color: red;
+    text-align: center;
+}
+
+h1{
+    color: blue;
+
+}
+
+h2{
+    color: chartreuse;
+}
+
+p{
+    color: chocolate;
+    
+}
+
+img{
+    width: 500px;
+}
