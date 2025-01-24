@@ -1,0 +1,23 @@
+/* 1) ახსენით რა არის style inheritance და რაში შეგვიძლია გამოვიყენოთ, ახსენით რა არის დეკლარაცია.
+
+style inheritance - memkvidreoba
+
+deklaracia - mnshvneloba
+
+2) ჩამოწერეთ ამ ოთხის პრივილეგია თანმიმდევრობით, მაღლიდან დაბლისკენ: Classes, IDs, Inline, Elements
+
+Inline
+IDs
+Classes
+Elements
+
+*/
+
+
+.button{
+    color:red ;
+}
+
+button p {
+    color: green;
+}
