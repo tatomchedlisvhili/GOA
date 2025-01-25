@@ -1,0 +1,93 @@
+#m{
+    color: red;
+}
+
+#i{
+    color: blue;
+}
+
+#s{
+    color: blueviolet;
+}
+
+#a{
+    color: yellowgreen;
+}
+
+#l{
+    color: chocolate;
+}
+
+
+.tato{
+    color: steelblue;
+}
+
+button{
+    background-color: black;
+    width: 200px;
+}
+
+button p {
+    text-align: center;
+    color: red;
+}
+
+
+.pirveli{
+    background-color: yellow;
+    color: aliceblue;
+    border-radius: 50px;
+    border-style: dotted;
+}
+
+.meore{
+    background-color: rgb(70, 70, 0);
+    color: rgb(15, 67, 112);
+    border-radius: 100px;
+    border-style: dashed;
+
+}
+
+.mesame{
+    background-color: rgb(159, 253, 183);
+    color: aliceblue;
+    border-radius: 70px;
+    border-style: solid;
+}
+
+.meotxe{
+    background-color: rgb(58, 26, 109);
+    color: rgb(83, 19, 80);
+    border-radius: 150px;
+    border-style: ridge;
+}
+
+.mexute{
+    background-color: yellow;
+    color: rgb(1, 31, 7);
+    border-radius: 120px;
+    border-style: groove;
+}
+
+div p{
+    text-align: center;
+}
+
+.n1{
+    color: green;
+    width: 200px;
+    box-shadow: 60px;
+}
+
+.n2{
+    color: rgb(12, 5, 54);
+    width: 300px;
+    box-shadow: 70px;
+}
+
+.n3{
+    color: rgb(163, 38, 96);
+    width: 250px;
+    box-shadow: 50px;
+}
